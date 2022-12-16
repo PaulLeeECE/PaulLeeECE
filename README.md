@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ming-Xian Lee</h1>
 
 ### Welcome to my GitHub page!
-### I am graduated from National Yang Ming Chiao Tung University, and currently applying for the Master's program of Electrical and Computer Engineering in the US!
+### I graduated from National Yang Ming Chiao Tung University, and currently applying for the Master's program of Electrical and Computer Engineering in the US!
 
 #### Programming Languages:
 
