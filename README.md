@@ -9,6 +9,12 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
+![Virtuoso](https://img.shields.io/badge/-Virtuoso-000000?style=flat&logo=virtuoso)
+![HSPICE](https://img.shields.io/badge/-HSPICE-000000?style=flat&logo=hspice)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+
 <!--
 **PaulLeeECE/PaulLeeECE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
