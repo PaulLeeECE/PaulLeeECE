@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Ming-Xian Lee</h1>
+
+### Welcome to my GitHub page!
+### I am graduated from National Yang Ming Chiao Tung University, and currently applying for the Master's program of Electrical and Computer Engineering in the US!
+
+#### Programming Languages:
+
+![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat&logo=verilog)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 <!--
 **PaulLeeECE/PaulLeeECE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
